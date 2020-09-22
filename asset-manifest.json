@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.610e6199.chunk.css",
-    "main.js": "/static/js/main.741a3e82.chunk.js",
-    "main.js.map": "/static/js/main.741a3e82.chunk.js.map",
+    "main.css": "/static/css/main.48f904c9.chunk.css",
+    "main.js": "/static/js/main.16ac39c9.chunk.js",
+    "main.js.map": "/static/js/main.16ac39c9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
     "static/css/2.59815e44.chunk.css": "/static/css/2.59815e44.chunk.css",
-    "static/js/2.c58db20c.chunk.js": "/static/js/2.c58db20c.chunk.js",
-    "static/js/2.c58db20c.chunk.js.map": "/static/js/2.c58db20c.chunk.js.map",
+    "static/js/2.a372e8ed.chunk.js": "/static/js/2.a372e8ed.chunk.js",
+    "static/js/2.a372e8ed.chunk.js.map": "/static/js/2.a372e8ed.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.51d3793d8111790a021a06f8f2151cb0.js": "/precache-manifest.51d3793d8111790a021a06f8f2151cb0.js",
+    "precache-manifest.4c84693656e2e755801158795b99bc66.js": "/precache-manifest.4c84693656e2e755801158795b99bc66.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.59815e44.chunk.css.map": "/static/css/2.59815e44.chunk.css.map",
-    "static/css/main.610e6199.chunk.css.map": "/static/css/main.610e6199.chunk.css.map",
-    "static/js/2.c58db20c.chunk.js.LICENSE.txt": "/static/js/2.c58db20c.chunk.js.LICENSE.txt",
+    "static/css/main.48f904c9.chunk.css.map": "/static/css/main.48f904c9.chunk.css.map",
+    "static/js/2.a372e8ed.chunk.js.LICENSE.txt": "/static/js/2.a372e8ed.chunk.js.LICENSE.txt",
     "static/media/Adobe-All-Hands_0.png": "/static/media/Adobe-All-Hands_0.87d71178.png",
     "static/media/Adobe-All-Hands_1.png": "/static/media/Adobe-All-Hands_1.57869385.png",
     "static/media/Adobe-All-Hands_2.png": "/static/media/Adobe-All-Hands_2.b207b14d.png",
@@ -32,13 +32,18 @@
     "static/media/Smart-Tune_1.png": "/static/media/Smart-Tune_1.4ff47f0d.png",
     "static/media/Smart-Tune_2.png": "/static/media/Smart-Tune_2.a706b84e.png",
     "static/media/Smart-Tune_3.png": "/static/media/Smart-Tune_3.037bd692.png",
+    "static/media/Swift-Launch_0.png": "/static/media/Swift-Launch_0.e717960e.png",
+    "static/media/Swift-Launch_1.png": "/static/media/Swift-Launch_1.bfb8b5c6.png",
+    "static/media/Swift-Launch_2.png": "/static/media/Swift-Launch_2.b93e51c9.png",
+    "static/media/Swift-Launch_3.png": "/static/media/Swift-Launch_3.e936ce47.png",
+    "static/media/main.scss": "/static/media/background-blur.96b9fd71.png",
     "static/media/resume.pdf": "/static/media/resume.96c4cd8e.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
     "static/css/2.59815e44.chunk.css",
-    "static/js/2.c58db20c.chunk.js",
-    "static/css/main.610e6199.chunk.css",
-    "static/js/main.741a3e82.chunk.js"
+    "static/js/2.a372e8ed.chunk.js",
+    "static/css/main.48f904c9.chunk.css",
+    "static/js/main.16ac39c9.chunk.js"
   ]
 }

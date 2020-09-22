@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "acef8db21a1a49adf3550ae5d396fcc9",
+    "revision": "63177ca54c5f68f207651351c07857db",
     "url": "/index.html"
   },
   {
-    "revision": "7be872ffb2f619783707",
+    "revision": "5ed134416b4984a2bb9e",
     "url": "/static/css/2.59815e44.chunk.css"
   },
   {
-    "revision": "11b5c84b3dd252518bd7",
-    "url": "/static/css/main.610e6199.chunk.css"
+    "revision": "7fcf64478a288e917e63",
+    "url": "/static/css/main.48f904c9.chunk.css"
   },
   {
-    "revision": "7be872ffb2f619783707",
-    "url": "/static/js/2.c58db20c.chunk.js"
+    "revision": "5ed134416b4984a2bb9e",
+    "url": "/static/js/2.a372e8ed.chunk.js"
   },
   {
     "revision": "f60f91d7585dcf8964fa6f05716d30b9",
-    "url": "/static/js/2.c58db20c.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.a372e8ed.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "11b5c84b3dd252518bd7",
-    "url": "/static/js/main.741a3e82.chunk.js"
+    "revision": "7fcf64478a288e917e63",
+    "url": "/static/js/main.16ac39c9.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -98,6 +98,30 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "037bd69253646e05871cf0c05900ba1c",
     "url": "/static/media/Smart-Tune_3.037bd692.png"
+  },
+  {
+    "revision": "e717960ecb7bfda793bf8f74757c62a0",
+    "url": "/static/media/Swift-Launch_0.e717960e.png"
+  },
+  {
+    "revision": "bfb8b5c6e777ba60839422bd69a1a0e6",
+    "url": "/static/media/Swift-Launch_1.bfb8b5c6.png"
+  },
+  {
+    "revision": "b93e51c9dcff0bf9131d4bf485d80df1",
+    "url": "/static/media/Swift-Launch_2.b93e51c9.png"
+  },
+  {
+    "revision": "e936ce479f417f3fd931d367cd1f3d79",
+    "url": "/static/media/Swift-Launch_3.e936ce47.png"
+  },
+  {
+    "revision": "780ffe3cd150cae5d047f60533734fd4",
+    "url": "/static/media/background-blur-md.780ffe3c.png"
+  },
+  {
+    "revision": "96b9fd716c22fda5e7f7cc1aeebd912e",
+    "url": "/static/media/background-blur.96b9fd71.png"
   },
   {
     "revision": "96c4cd8e16a4bbaff138685afb36ea91",
